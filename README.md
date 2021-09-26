@@ -1,6 +1,13 @@
 ## **TabNine For Visual Studio**
 
-**This repository is a placeholder, used to gauge the level of interest of Visual Studio users in a TabNine extension.**
+**This repository is a placeholder, the code repository will be made open source soon. For now,
+please submit issues under this repository.**
+
+Tabnine for visual studio has been released!
+- Details here: https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-visual-studio
+- Installation instructions here: https://www.tabnine.com/install/visualstudio
+
+
 
 ### **TabNine Overview:**
 
