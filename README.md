@@ -13,16 +13,24 @@
 [![Twitter Follow][twitter-shield]][twitter-url]
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-908a85?logo=gitpod)](https://gitpod.io/from-referrer/)
 # AI assistant for software developers
+> Please note that this extension only supports Visual Studio version 17.4 or higher.
+
 ## Code faster with AI code completions
 
 ![Tabnine main completions](https://raw.githubusercontent.com/codota/tabnine-vscode/master/assets/completions-main.gif)
 <br />
+
+## Ask away, Tabnine Chat is here to answer (Beta)
+
+![Tabnine Chat_discover_and_learn](https://github.com/codota/tabnine-vscode/assets/23702961/68c486fc-fa0d-4cfe-b8e1-432684b057d8)
+<br/>
 
 #### Quick menu:
 
 **[What’s Tabnine](#whats-tabnine)**<br />
 **[Supported languages, frameworks, and IDEs](#supported-languages-frameworks-and-ides)**<br />
 **[Code privacy](#complete-code-privacy)**<br />
+**[Tabnine Chat (Beta) ](#tabnine-chat-beta)**<br />
 **[Tabnine Pro](#tabnine-pro---whole-line-full-function-and-natural-language-to-code-completions)**<br />
 **[Tabnine Enterprise](#tabnine-enterprise)**<br />
 **[FAQ](#faq)**<br />
@@ -43,27 +51,34 @@ Your code always remains private.
 Tabnine NEVER stores or shares any of your code. Any action that shares your code with the Tabnine servers for the purpose of private code models (part of enterprise) requires explicit opt-in. Tabnine does not retain any user code beyond the immediate time frame required for training models. Private code models created by Tabnine Enterprise are only accessible by your team members.
 
 #### Trained on open-source code with permissive licenses
-Tabnine only uses open-source code with permissive licenses for our Public Code trained AI model (MIT, Apache 2.0, BSD-2-Clause, BSD-3-Clause). Whether you’re using Tabnine’s Pro plan or our Basic plan, your code, and AI data are NEVER used to train any models other than private code models.<br />
-[Learn more](https://www.tabnine.com/code-privacy?utm_source=ide_marketplace&utm_medium=organic&utm_campaign=vscode_marketplace)
+Tabnine only uses open-source code with permissive licenses for our Public Code trained AI model (MIT, MIT-0, Apache-2.0, BSD-2-Clause, BSD-3-Clause, Unlicense, CC0-1.0, CC-BY-3.0, CC-BY-4.0, RSA-MD, 0BSD, WTFPL, ISC). Whether you’re using Tabnine’s Pro plan or our Basic plan, your code, and AI data are NEVER used to train any models other than private code models.<br />
+[Learn more](https://www.tabnine.com/code-privacy?utm_source=ide_marketplace&utm_medium=organic&utm_campaign=visual_studio_marketplace)
+
+
+#### Tabnine Chat (Beta)
+Tabnine Chat is a private and secure AI assistant that’s been trained on permissible open-source code only, and is always available to answer any of your questions right in your IDE. 
+
+With Tabnine Chat you can basically ask any question regarding code, for example, you can generate code that performs a specific task, generate tests for specific code, generate documentation for existing code, explain the purpose of legacy code, and way more.
+
+
+![Chat_unit_test](https://github.com/codota/tabnine-vscode/assets/23702961/dd3bd5d8-6745-44ad-aaee-caa1a0b250d8)
 
 #### Tabnine Pro - whole line, full function, and natural language to code completions
 
 You’re in control - As you type, Tabnine Pro serves whole-line, full-function, and even natural language to code completions. You can accept your whole line completion or keep typing to get more **real-time alternatives** that keep adapting to your code context.<br />
-[Start a Free Tabnine Pro 14-day trial](https://www.tabnine.com/pricing/landing?utm_source=ide_marketplace&utm_medium=organic&utm_campaign=vscode_marketplace)
+[Start a Free Tabnine Pro 14-day trial](https://www.tabnine.com/pricing/landing?utm_source=ide_marketplace&utm_medium=organic&utm_campaign=visual_studio_marketplace)
 <br />
 <br />
 **Whole line completions** - Tabnine serves whole line completions as you code and you can complete an entire line of code with a single keystroke.
 <br />
 <br />
-<br />
 **Full-function completions** - With just a hint, Tabnine generates your entire function without ever having to exit your editor.
-<br />
 <br />
 <br />
 **Natural language to code completions** - Describe the script or function you’re looking for, and Tabnine will suggest the right code for you to use.
 <br />
 
-[Start a free trial](https://www.tabnine.com/pricing/landing?utm_source=ide_marketplace&utm_medium=organic&utm_campaign=vscode_marketplace)
+[Start a free trial](https://www.tabnine.com/pricing/landing?utm_source=ide_marketplace&utm_medium=organic&utm_campaign=visual_studio_marketplace)
 
 #### Tabnine Enterprise
 Everything Tabnine Pro & much more - The perfect solution for businesses with custom needs:
@@ -86,7 +101,7 @@ Everything Tabnine Pro & much more - The perfect solution for businesses with cu
 <br/>
 **Private code repository models** - Tabnine Enterprise offers custom models based on multiple repositories. Connect your GitHub/GitLab/Bitbucket repositories and train your own private AI model to get personalized code completions that match your coding style & patterns.
 
-[Contact us](https://www.tabnine.com/pricing?utm_source=ide_marketplace&utm_medium=organic&utm_campaign=vscode_marketplace) for more information
+[Contact us](https://www.tabnine.com/pricing?utm_source=ide_marketplace&utm_medium=organic&utm_campaign=visual_studio_marketplace) for more information
 <br />
 
 #### Supported languages, frameworks, and IDEs
@@ -95,13 +110,7 @@ Everything Tabnine Pro & much more - The perfect solution for businesses with cu
 <br />
 #### FAQ
 
-Something not working the way you hoped? [Tabnine Support](https://www.tabnine.com/faq?utm_source=ide_marketplace&utm_medium=organic&utm_campaign=vscode_marketplace) is always happy to help. Feel free to contact us anytime at support@tabnine.com
-<br />
-
-#### Communities
-
-- [Join the Tabnine Discord server](https://discord.gg/5GnbDg5Jmg)
-- [Join the Tabnine community in Slack](https://join.slack.com/t/tabnine-community/shared_invite/zt-mi5n0v6f-4W0Ap4yAUQXS~nVvxwSoJg)
+Something not working the way you hoped? [Tabnine Support](https://www.tabnine.com/faq?utm_source=ide_marketplace&utm_medium=organic&utm_campaign=visual_studio_marketplace) is always happy to help. Feel free to contact us anytime at support@tabnine.com
 <br />
 
 #### **Recommended by developers everywhere:**
